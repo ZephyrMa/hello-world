@@ -3,4 +3,4 @@ My first repository at GitHub
 # goal
 Use python to print "Hello world!"
 ## add some equations
-$$1+{\rm e}^{i \pi} = 0$$
+![](http://latex.codecogs.com/gif.latex? \\ a^2 + b^2 = c^2)
